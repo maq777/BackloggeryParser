@@ -1,6 +1,8 @@
 from lxml import html
+import io
 
 tree = html.parse("backloggery.html")
+list = []
 for gamebox in tree.xpath('//section[@class="gamebox" and child::div[@class="gamerow"]]'):
 
     name = next(iter(gamebox.xpath('./h2/b/text()')), '')
@@ -20,4 +22,9 @@ for gamebox in tree.xpath('//section[@class="gamebox" and child::div[@class="gam
     if compilation:
         name = f'{name} ({compilation})'
 
-    print(f'{name} [{platform}]')
+    list.append(f'{name} [{platform}]\n')
+
+outfile = io.open("games.txt", mode="w", encoding="utf-8")
+outfile.writelines(list)
+outfile.close()
+print(f'Number of beaten games: {len(list)}')
