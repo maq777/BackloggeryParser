@@ -1,7 +1,7 @@
 from lxml import html
 import io
 
-tree = html.parse("backloggery.html")
+tree = html.parse("maq's Backloggery.html")
 list = []
 for gamebox in tree.xpath('//section[@class="gamebox" and child::div[@class="gamerow"]]'):
 
