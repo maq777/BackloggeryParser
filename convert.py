@@ -1,5 +1,6 @@
 import argparse
 import csv
+import datetime
 import io
 import os
 import re
@@ -39,27 +40,30 @@ print(f"## Input file header '{header.strip()}'")
 
 # Read content
 reader = csv.DictReader(args.file)
-list = list(reader)
+games = list(reader)
 
 # Fix DLC nameing
-for row in list:
-    parent = getParent(row, list)
+for row in games:
+    parent = getParent(row, games)
     if parent and not isCollection(parent):
         row['Title'] = f"{parent['Title']}: {row['Title']}"
 
 # Lexicographical sort & format the output
-list.sort(key=lambda tup: re.sub(r'^(a |the |an )', '', tup['Title'].casefold()))
+games.sort(key=lambda tup: re.sub(r'^(a |the |an )', '', tup['Title'].casefold()))
 
 # Write output
-outfile = io.open("games.txt", mode="w", encoding="utf-8")
-for row in list:
+outfile = io.open("README.md", mode="w", encoding="utf-8")
+outfile.write("## Completed games\n\n")
+for row in games:
     print(f"### Processing '{row['Title']}'")
     if not isBeaten(row):
         continue
     else:
-        parent = getParent(row, list)
+        parent = getParent(row, games)
         if parent and isCollection(parent):
-            outfile.write(f"{row['Title']} ({parent['Title']}) [{row['Platform']}]\n")
+            outfile.write(f"- {row['Title']} ({parent['Title']}) [{row['Platform']}]\n")
         else:
-            outfile.write(f"{row['Title']} [{row['Platform']}]\n")
+            outfile.write(f"- {row['Title']} [{row['Platform']}]\n")
+
+outfile.write(f"\nmaq777 - {datetime.datetime.now().strftime('%Y-%m-%d')}")
 outfile.close()
