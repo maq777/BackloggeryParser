@@ -81,6 +81,7 @@
 - Attack of the Mutant Camels (C64) (Llamasoft: The Jeff Minter Story) [Xbox Series X]
 - The Awesome Adventures of Captain Spirit [Steam]
 - Azure Striker Gunvolt [Xbox Series X]
+- Azure Striker Gunvolt 2 [Xbox Series X]
 - Back 4 Blood [PC]
 - Backbone [PC]
 - Balatro [Nintendo Switch]
@@ -645,6 +646,7 @@
 - Magic Sword: Heroic Fantasy (Capcom Arcade 2nd Stadium) [Xbox Series X]
 - Magic: The Gathering [Xbox 360]
 - Magic: The Gathering Arena [PC]
+- Maidens of a Hollow Dream [Steam]
 - Mama Llama (C64) (Llamasoft: The Jeff Minter Story) [Xbox Series X]
 - Maniac Mansion [PC]
 - Marfusha [Xbox Series X]
@@ -759,6 +761,7 @@
 - Ori and the Blind Forest [Steam]
 - Ori and the Will of the Wisps [PC]
 - Out Zone [Steam]
+- Outer Wilds [PC]
 - The Outer Worlds [PC]
 - The Outer Worlds: Murder on Eridanos [PC]
 - The Outer Worlds: Peril on Gorgon [PC]
@@ -1057,7 +1060,11 @@
 - Strafe [Steam]
 - Stray [Xbox Series X]
 - Stray Gods: The Roleplaying Musical [Xbox Series X]
+- Street Fighter Alpha 2 (Capcom Arcade 2nd Stadium) [Xbox Series X]
+- Street Fighter Alpha 3 (Capcom Arcade 2nd Stadium) [Xbox Series X]
+- Street Fighter Alpha: Warriors' Dreams (Capcom Arcade 2nd Stadium) [Xbox Series X]
 - Street Fighter II' HF [Xbox 360]
+- Street Fighter II: The World Warrior (Capcom Arcade Stadium) [Xbox Series X]
 - Street Fighter III: Third Strike Online Edition [Xbox 360]
 - Street Fighter IV [Xbox 360]
 - Street Fighter IV [iOS]
@@ -1271,4 +1278,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-08-30
+maq777 - 2024-09-15
