@@ -22,6 +22,14 @@
 - Assassin's Creed Valhalla (2020)
 - Assassin's Creed Mirage (2023)
 
+## Broken Sword
+
+- Broken Sword: Shadow of the Templars - The Director's Cut (1996)
+- Broken Sword II: The Smoking Mirror - Remastered (1997)
+- Broken Sword: The Sleeping Dragon (2003)
+- Broken Sword: The Angel of Death (2006)
+- Broken Sword 5: The Serpent's Curse (2013)
+
 ## Call of Duty
 
 - Call of Duty Classic (2003)
@@ -61,6 +69,14 @@
 - Call of Duty: Black Ops III (2015)
 - Call of Duty: Black Ops Cold War (2020)
 - Call of Duty: Black Ops 6 (2024)
+
+## Fable
+
+- Fable (2004)
+- Fable II Pub Games (2008)
+- Fable II (2008)
+- Fable III (2010)
+- Fable Heroes (2012)
 
 ## Halo
 
@@ -138,6 +154,7 @@
 - Street Fighter IV (2008)
 - Super Street Fighter IV (2010)
 - Street Fighter X Tekken (2012)
+- Ultra Street Fighter IV (2014)
 - Street Fighter V (2016)
 - Street Fighter 6 (2023)
 
@@ -162,6 +179,7 @@
 
 - Street Fighter IV (2008)
 - Super Street Fighter IV (2010)
+- Ultra Street Fighter IV (2014)
 
 ## Wolfenstein
 
@@ -172,4 +190,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-03
+maq777 - 2024-11-05

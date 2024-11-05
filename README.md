@@ -31,7 +31,7 @@
 - Alfred Hitchcock - Vertigo [Xbox Series X]
 - Alice: Madness Returns [Xbox 360]
 - Alien Breed 2: Assault [Xbox 360]
-- Alien Breed Episode 1 [Xbox 360]
+- Alien Breed: Evolution [Xbox 360]
 - Alien Hominid HD [Xbox 360]
 - Alien vs. Predator [Steam]
 - Alien: Isolation [PC]
@@ -1209,6 +1209,7 @@
 - Ultima Underworld II: Labyrinth of Worlds [PC]
 - Ultima Underworld: The Stygian Abyss [PC]
 - The Ultimate Doom [Steam]
+- Ultra Street Fighter IV [Steam]
 - Unavowed [PC]
 - Uncharted 2: Among Thieves [PlayStation 3]
 - Uncharted 3: Drake's Deception [PlayStation 3]
@@ -1308,4 +1309,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-11-03
+maq777 - 2024-11-05

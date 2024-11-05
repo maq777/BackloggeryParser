@@ -9,9 +9,11 @@ import re
 series = {
     "3025-2074": {"header": "## Alan Wake", "games": []},
     "3025-38":   {"header": "## Assassin's Creed", "games": []},
+    "3025-70":   {"header": "## Broken Sword", "games": []},
     "3025-82":   {"header": "## Call of Duty", "games": []},
     "3025-1258": {"header": "### Modern Warfare", "games": []},
     "3025-2275": {"header": "### Black Ops", "games": []},
+    "3025-182":  {"header": "## Fable", "games": []},
     "3025-2":    {"header": "## Halo", "games": []},
     "3025-523":  {"header": "## Mega Man", "games": []},
     "3025-626":  {"header": "### Mega Man Classic", "games": []},
