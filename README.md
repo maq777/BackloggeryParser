@@ -480,6 +480,7 @@
 - Golf Story [Nintendo Switch]
 - Gone Home [Steam]
 - Gorogoa [PC]
+- Grace in the Dark: Prologue [Xbox Series X]
 - Gravity Rush Remastered [PlayStation 4]
 - Grey Goo [Steam]
 - Gridrunner (VIC-20) (Llamasoft: The Jeff Minter Story) [Xbox Series X]
@@ -1187,6 +1188,7 @@
 - Total Carnage (Midway Arcade Origins) [Xbox 360]
 - Total War: Rome Remastered [Steam]
 - Totally Accurate Battle Simulator [Epic Games Launcher]
+- Touch Type Tale - Strategic Typing [Steam]
 - Transformers: Devastation [PlayStation 4]
 - Transistor [PlayStation 4]
 - Trek to Yomi [Xbox Series X]
@@ -1309,4 +1311,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-11-05
+maq777 - 2024-11-09

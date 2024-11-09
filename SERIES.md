@@ -1,10 +1,28 @@
 ## Game Series Completion Status
 
+## 194X
+
+- 1942 (1984)
+- 1943: The Battle of Midway (1987)
+- 1941: Counter Attack (1990)
+- 19XX: The War Against Destiny (1996)
+- 1944: The Loop Master (2000)
+
 ## Alan Wake
 
 - Alan Wake (2010)
 - Alan Wake's American Nightmare (2012)
 - Alan Wake 2 (2023)
+
+## Alone in the Dark
+
+- Alone in the Dark (1992)
+- Jack in the Dark (1993)
+- Alone in the Dark 2 (1993)
+- Alone in the Dark 3 (1995)
+- Alone in the Dark (2008)
+- Grace in the Dark: Prologue (2023)
+- Alone in the Dark (2024)
 
 ## Assassin's Creed
 
@@ -21,6 +39,14 @@
 - Assassin's Creed Odyssey (2018)
 - Assassin's Creed Valhalla (2020)
 - Assassin's Creed Mirage (2023)
+
+## Baldur's Gate
+
+- Baldur's Gate: Dark Alliance (2001)
+- Baldur's Gate: Dark Alliance II (2004)
+- Baldur's Gate: Enhanced Edition (2012)
+- Baldur's Gate II: Enhanced Edition (2013)
+- Baldur's Gate 3 (2023)
 
 ## Broken Sword
 
@@ -190,4 +216,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-05
+maq777 - 2024-11-09

@@ -7,8 +7,11 @@ import re
 
 # Based on GiantBomb guid's
 series = {
+    "3025-11":   {"header": "## 194X", "games": []},
     "3025-2074": {"header": "## Alan Wake", "games": []},
+    "3025-28":   {"header": "## Alone in the Dark", "games": []},	
     "3025-38":   {"header": "## Assassin's Creed", "games": []},
+    "3025-44":   {"header": "## Baldur's Gate", "games": []},
     "3025-70":   {"header": "## Broken Sword", "games": []},
     "3025-82":   {"header": "## Call of Duty", "games": []},
     "3025-1258": {"header": "### Modern Warfare", "games": []},
