@@ -96,6 +96,15 @@
 - Call of Duty: Black Ops Cold War (2020)
 - Call of Duty: Black Ops 6 (2024)
 
+## Devil May Cry
+
+- Devil May Cry (2001)
+- Devil May Cry 2 (2003)
+- Devil May Cry 3: Dante's Awakening - Special Edition (2006)
+- DmC: Devil May Cry (2013)
+- Devil May Cry 4: Special Edition (2015)
+- Devil May Cry 5 (2019)
+
 ## Fable
 
 - Fable (2004)
@@ -103,6 +112,15 @@
 - Fable II (2008)
 - Fable III (2010)
 - Fable Heroes (2012)
+
+## Fallout
+
+- Fallout (1997)
+- Fallout 2 (1998)
+- Fallout 3 (2008)
+- Fallout: New Vegas (2010)
+- Fallout 4 (2015)
+- Fallout: London (2024)
 
 ## Halo
 
@@ -166,6 +184,48 @@
 - S.T.A.L.K.E.R.: Clear Sky (2008)
 - S.T.A.L.K.E.R.: Call of Pripyat (2009)
 
+## Tom Clancy
+
+- Tom Clancy's Splinter Cell (2002)
+- Tom Clancy's Splinter Cell: Pandora Tomorrow (2004)
+- Tom Clancy's Splinter Cell: Chaos Theory (2005)
+- Tom Clancy's Splinter Cell: Double Agent (2006)
+- Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+- Tom Clancy's Rainbow Six: Vegas (2006)
+- Tom Clancy's Ghost Recon Advanced Warfighter 2 (2007)
+- Tom Clancy's Rainbow Six: Vegas 2 (2008)
+- Tom Clancy's Splinter Cell: Conviction (2010)
+- Tom Clancy's Splinter Cell: Blacklist (2013)
+
+### Ghost Recon
+
+- Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+- Tom Clancy's Ghost Recon Advanced Warfighter 2 (2007)
+
+### Ghost Recon Advanced Warfighter
+
+- Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+- Tom Clancy's Ghost Recon Advanced Warfighter 2 (2007)
+
+### Rainbow Six
+
+- Tom Clancy's Rainbow Six: Vegas (2006)
+- Tom Clancy's Rainbow Six: Vegas 2 (2008)
+
+### Rainbow Six Vegas
+
+- Tom Clancy's Rainbow Six: Vegas (2006)
+- Tom Clancy's Rainbow Six: Vegas 2 (2008)
+
+### Splinter Cell
+
+- Tom Clancy's Splinter Cell (2002)
+- Tom Clancy's Splinter Cell: Pandora Tomorrow (2004)
+- Tom Clancy's Splinter Cell: Chaos Theory (2005)
+- Tom Clancy's Splinter Cell: Double Agent (2006)
+- Tom Clancy's Splinter Cell: Conviction (2010)
+- Tom Clancy's Splinter Cell: Blacklist (2013)
+
 ## Street Fighter
 
 - Street Fighter (1987)
@@ -216,4 +276,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-09
+maq777 - 2024-11-12

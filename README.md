@@ -327,8 +327,8 @@
 - Deus Ex: Mankind Divided [Steam]
 - Devil May Cry (Devil May Cry HD Collection) [Xbox 360]
 - Devil May Cry 2 (Devil May Cry HD Collection) [Xbox 360]
-- Devil May Cry 3 Special Edition (Devil May Cry HD Collection) [Xbox 360]
-- Devil May Cry 4 Special Edition [Steam]
+- Devil May Cry 3: Dante's Awakening - Special Edition (Devil May Cry HD Collection) [Xbox 360]
+- Devil May Cry 4: Special Edition [Steam]
 - Devil May Cry 5 [Steam]
 - Devolverland Expo [Steam]
 - Diablo [PC]
@@ -876,8 +876,6 @@
 - Rage [Xbox 360]
 - Rage 2 [Steam]
 - Rage HD [iOS]
-- Rainbow Six: Vegas [Xbox 360]
-- Rainbow Six: Vegas 2 [Xbox 360]
 - RalliSport Challenge [Xbox]
 - Rat Man (VIC-20) (Llamasoft: The Jeff Minter Story) [Xbox Series X]
 - Ratchet & Clank [PlayStation 4]
@@ -934,6 +932,7 @@
 - Ruiner [Steam]
 - Rush'n Attack [Nintendo Entertainment System]
 - Ryse: Son of Rome [Xbox One]
+- S.T.A.L.K.E.R.: Call of Pripyat (S.T.A.L.K.E.R.: Legends of the Zone Trilogy) [Xbox Series X]
 - S.T.A.L.K.E.R.: Clear Sky (S.T.A.L.K.E.R.: Legends of the Zone Trilogy) [Xbox Series X]
 - S.T.A.L.K.E.R.: Shadow of Chernobyl (S.T.A.L.K.E.R.: Legends of the Zone Trilogy) [Xbox Series X]
 - Sacred 2: Fallen Angel [Xbox 360]
@@ -1171,6 +1170,8 @@
 - Tom Clancy's Ghost Recon Advanced Warfighter [Xbox 360]
 - Tom Clancy's Ghost Recon Advanced Warfighter 2 [Xbox 360]
 - Tom Clancy's Ghost Recon: Future Soldier [Xbox 360]
+- Tom Clancy's Rainbow Six: Vegas [Xbox 360]
+- Tom Clancy's Rainbow Six: Vegas 2 [Xbox 360]
 - Tom Clancy's Splinter Cell [PC]
 - Tom Clancy's Splinter Cell: Blacklist [Xbox 360]
 - Tom Clancy's Splinter Cell: Chaos Theory [PC]
@@ -1311,4 +1312,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-11-09
+maq777 - 2024-11-12
