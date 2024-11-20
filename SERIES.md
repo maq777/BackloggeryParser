@@ -122,6 +122,17 @@
 - Fallout 4 (2015)
 - Fallout: London (2024)
 
+## Gears of War
+
+- Gears of War (2006)
+- Gears of War 2 (2008)
+- Gears of War 3 (2011)
+- Gears of War: Judgment (2013)
+- Gears of War: Ultimate Edition (2015)
+- Gears of War 4 (2016)
+- Gears 5 (2019)
+- Gears Tactics (2020)
+
 ## Halo
 
 - Halo: Combat Evolved (2001)
@@ -136,6 +147,17 @@
 - Halo 5: Guardians (2015)
 - Halo Wars 2 (2017)
 - Halo Infinite (2021)
+
+## Leisure Suit Larry
+
+- Leisure Suit Larry in the Land of the Lounge Lizards (1987)
+- Leisure Suit Larry Goes Looking for Love (in Several Wrong Places) (1988)
+- Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals (1989)
+- Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (1991)
+- Leisure Suit Larry 6: Shape Up or Slip Out! (1993)
+- Leisure Suit Larry: Love for Sail! (1996)
+- Leisure Suit Larry: Wet Dreams Don't Dry (2018)
+- Leisure Suit Larry: Wet Dreams Dry Twice (2020)
 
 ## Mega Man
 
@@ -183,6 +205,63 @@
 - S.T.A.L.K.E.R.: Shadow of Chernobyl (2007)
 - S.T.A.L.K.E.R.: Clear Sky (2008)
 - S.T.A.L.K.E.R.: Call of Pripyat (2009)
+- S.T.A.L.K.E.R. 2: Heart of Chornobyl (2024)
+
+## Samurai Shodown
+
+- Samurai Shodown (1993)
+- Samurai Shodown II (1994)
+- Samurai Shodown III: Blades of Blood (1995)
+
+## Space Quest
+
+- Space Quest I: The Sarien Encounter (1986)
+- Space Quest II: Vohaul's Revenge (1987)
+- Space Quest III: The Pirates of Pestulon (1989)
+- Space Quest IV: Roger Wilco and the Time Rippers (1991)
+- Space Quest V: The Next Mutation (1993)
+- Space Quest 6: The Spinal Frontier (1995)
+
+## Street Fighter
+
+- Street Fighter (1987)
+- Street Fighter II: The World Warrior (1991)
+- Street Fighter II Turbo: Hyper Fighting (1992)
+- Super Street Fighter II Turbo HD Remix (1994)
+- Street Fighter Alpha: Warriors' Dreams (1994)
+- Street Fighter Alpha 2 (1995)
+- Street Fighter Alpha 3 (1998)
+- Street Fighter III: Third Strike Online Edition (1999)
+- Hyper Street Fighter II: The Anniversary Edition (2003)
+- Street Fighter IV (2008)
+- Super Street Fighter IV (2010)
+- Street Fighter X Tekken (2012)
+- Ultra Street Fighter IV (2014)
+- Street Fighter V (2016)
+- Street Fighter 6 (2023)
+
+### Street Fighter II
+
+- Street Fighter II: The World Warrior (1991)
+- Street Fighter II Turbo: Hyper Fighting (1992)
+- Super Street Fighter II Turbo HD Remix (1994)
+- Hyper Street Fighter II: The Anniversary Edition (2003)
+
+### Street Fighter Alpha
+
+- Street Fighter Alpha: Warriors' Dreams (1994)
+- Street Fighter Alpha 2 (1995)
+- Street Fighter Alpha 3 (1998)
+
+### Street Fighter III
+
+- Street Fighter III: Third Strike Online Edition (1999)
+
+### Street Fighter IV
+
+- Street Fighter IV (2008)
+- Super Street Fighter IV (2010)
+- Ultra Street Fighter IV (2014)
 
 ## Tom Clancy
 
@@ -226,47 +305,6 @@
 - Tom Clancy's Splinter Cell: Conviction (2010)
 - Tom Clancy's Splinter Cell: Blacklist (2013)
 
-## Street Fighter
-
-- Street Fighter (1987)
-- Street Fighter II: The World Warrior (1991)
-- Street Fighter II Turbo: Hyper Fighting (1992)
-- Super Street Fighter II Turbo HD Remix (1994)
-- Street Fighter Alpha: Warriors' Dreams (1994)
-- Street Fighter Alpha 2 (1995)
-- Street Fighter Alpha 3 (1998)
-- Street Fighter III: Third Strike Online Edition (1999)
-- Hyper Street Fighter II: The Anniversary Edition (2003)
-- Street Fighter IV (2008)
-- Super Street Fighter IV (2010)
-- Street Fighter X Tekken (2012)
-- Ultra Street Fighter IV (2014)
-- Street Fighter V (2016)
-- Street Fighter 6 (2023)
-
-### Street Fighter II
-
-- Street Fighter II: The World Warrior (1991)
-- Street Fighter II Turbo: Hyper Fighting (1992)
-- Super Street Fighter II Turbo HD Remix (1994)
-- Hyper Street Fighter II: The Anniversary Edition (2003)
-
-### Street Fighter Alpha
-
-- Street Fighter Alpha: Warriors' Dreams (1994)
-- Street Fighter Alpha 2 (1995)
-- Street Fighter Alpha 3 (1998)
-
-### Street Fighter III
-
-- Street Fighter III: Third Strike Online Edition (1999)
-
-### Street Fighter IV
-
-- Street Fighter IV (2008)
-- Super Street Fighter IV (2010)
-- Ultra Street Fighter IV (2014)
-
 ## Wolfenstein
 
 - Return to Castle Wolfenstein (2001)
@@ -276,4 +314,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-12
+maq777 - 2024-11-20

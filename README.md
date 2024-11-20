@@ -350,6 +350,7 @@
 - Disney's Aladdin [Sega Genesis]
 - Divinity: Original Sin II [Steam]
 - DmC: Devil May Cry [Xbox 360]
+- DNF Duel [Epic Games Launcher]
 - DoDonPachi Resurrection [Steam]
 - Doki Doki Literature Club Plus! [Xbox Series X]
 - Donut Country [Epic Games Launcher]
@@ -598,6 +599,7 @@
 - Katamari Damacy Reroll [Steam]
 - Katana Zero [Nintendo Switch]
 - Kentucky Route Zero [Steam]
+- Kid A Mnesia Exhibition [Epic Games Launcher]
 - Kid Dracula (Castlevania Anniversary Collection) [Nintendo Switch]
 - Killing Floor 2 [Steam]
 - Killzone Shadow Fall [PlayStation 4]
@@ -633,7 +635,6 @@
 - The Legend of Kyrandia - Book Two: The Hand of Fate [PC]
 - The Legend of Tianding [PC]
 - Legendary Wings (Capcom Arcade Stadium) [Xbox Series X]
-- Leisure Suit Larry - Wet Dreams Dry Twice [Xbox Series X]
 - Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work [PC]
 - Leisure Suit Larry 6: Shape Up or Slip Out! [PC]
 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places) [PC]
@@ -641,6 +642,7 @@
 - Leisure Suit Larry in the Land of the Lounge Lizards [PC]
 - Leisure Suit Larry: Love for Sail! [PC]
 - Leisure Suit Larry: Wet Dreams Don't Dry [Steam]
+- Leisure Suit Larry: Wet Dreams Dry Twice [Xbox Series X]
 - Lies of P [Xbox Series X]
 - Limbo [Xbox 360]
 - Little Inferno [Epic Games Launcher]
@@ -939,6 +941,8 @@
 - Sacred Citadel [Steam]
 - Saint Kotar [Xbox Series X]
 - Sam & Max Hit the Road [Steam]
+- Samurai Shodown (Samurai Shodown NeoGeo Collection) [Epic Games Launcher]
+- Samurai Shodown II (Samurai Shodown NeoGeo Collection) [Epic Games Launcher]
 - SAR: Search and Rescue (SNK 40th Anniversary Collection) [Nintendo Switch]
 - Satellite Reign [Steam]
 - Saturday Night Slam Masters (Capcom Arcade 2nd Stadium) [Xbox Series X]
@@ -1312,4 +1316,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-11-12
+maq777 - 2024-11-20
