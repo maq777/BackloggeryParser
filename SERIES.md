@@ -105,6 +105,15 @@
 - Devil May Cry 4: Special Edition (2015)
 - Devil May Cry 5 (2019)
 
+## Doom
+
+- Doom (1993)
+- Doom II: Hell on Earth (1994)
+- Doom 64 (1997)
+- Doom 3 (2004)
+- Doom (2016)
+- Doom Eternal (2020)
+
 ## Fable
 
 - Fable (2004)
@@ -159,6 +168,13 @@
 - Leisure Suit Larry: Wet Dreams Don't Dry (2018)
 - Leisure Suit Larry: Wet Dreams Dry Twice (2020)
 
+## Mass Effect
+
+- Mass Effect (2007)
+- Mass Effect 2 (2010)
+- Mass Effect 3 (2012)
+- Mass Effect: Andromeda (2017)
+
 ## Mega Man
 
 - Mega Man (1987)
@@ -199,6 +215,14 @@
 - The Secret of Monkey Island 2: Special Edition (2009)
 - Monkey Island 2: LeChuck's Revenge: Special Edition (2010)
 - Return to Monkey Island (2022)
+
+## Quake
+
+- Quake (1996)
+- Quake II (1997)
+- Quake III Arena (1999)
+- Quake 4 (2005)
+- Quake Champions (2017)
 
 ## S.T.A.L.K.E.R.
 
@@ -305,6 +329,14 @@
 - Tom Clancy's Splinter Cell: Conviction (2010)
 - Tom Clancy's Splinter Cell: Blacklist (2013)
 
+## The Walking Dead
+
+- The Walking Dead: Season One (2012)
+- The Walking Dead: Season Two (2013)
+- The Walking Dead: Michonne (2016)
+- The Walking Dead: A New Frontier (2016)
+- The Walking Dead: The Final Season (2018)
+
 ## Wolfenstein
 
 - Return to Castle Wolfenstein (2001)
@@ -314,4 +346,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-20
+maq777 - 2024-11-23

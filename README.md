@@ -1255,6 +1255,7 @@
 - Void Bastards [Steam]
 - A Void Hope [Steam]
 - Voidrunner (C64) (Llamasoft: The Jeff Minter Story) [Xbox Series X]
+- The Walking Dead: A New Frontier [PC]
 - The Walking Dead: Michonne [PC]
 - The Walking Dead: Season One [Xbox 360]
 - The Walking Dead: Season Two [Steam]
@@ -1316,4 +1317,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2024-11-20
+maq777 - 2024-11-23
