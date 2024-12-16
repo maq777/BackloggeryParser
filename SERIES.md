@@ -48,6 +48,13 @@
 - Baldur's Gate II: Enhanced Edition (2013)
 - Baldur's Gate 3 (2023)
 
+## Bayonetta
+
+- Bayonetta (2009)
+- Bayonetta 2 (2014)
+- Bayonetta 3 (2022)
+- Bayonetta Origins: Cereza and the Lost Demon (2023)
+
 ## Broken Sword
 
 - Broken Sword: Shadow of the Templars - The Director's Cut (1996)
@@ -104,6 +111,14 @@
 - DmC: Devil May Cry (2013)
 - Devil May Cry 4: Special Edition (2015)
 - Devil May Cry 5 (2019)
+
+## Diablo
+
+- Diablo (1997)
+- Diablo II (2000)
+- Diablo III (2012)
+- Diablo Immortal (2022)
+- Diablo IV (2023)
 
 ## Doom
 
@@ -236,6 +251,11 @@
 - Samurai Shodown (1993)
 - Samurai Shodown II (1994)
 - Samurai Shodown III: Blades of Blood (1995)
+- Samurai Shodown IV: Amakusa's Revenge (1996)
+- Samurai Shodown V (2003)
+- Samurai Shodown V Special (2004)
+- Samurai Shodown (2019)
+- Samurai Shodown V Perfect (2020)
 
 ## Space Quest
 
@@ -287,6 +307,13 @@
 - Super Street Fighter IV (2010)
 - Ultra Street Fighter IV (2014)
 
+## Streets of Rage
+
+- Streets of Rage (1991)
+- Streets of Rage 2 (1992)
+- Streets of Rage 3 (1994)
+- Streets of Rage 4 (2020)
+
 ## Tom Clancy
 
 - Tom Clancy's Splinter Cell (2002)
@@ -329,6 +356,16 @@
 - Tom Clancy's Splinter Cell: Conviction (2010)
 - Tom Clancy's Splinter Cell: Blacklist (2013)
 
+## Tomb Raider
+
+- Tomb Raider: The Last Revelation (1999)
+- Tomb Raider: Legend (2006)
+- Tomb Raider: Anniversary (2007)
+- Tomb Raider: Underworld (2008)
+- Tomb Raider (2013)
+- Rise of the Tomb Raider (2015)
+- Shadow of the Tomb Raider (2018)
+
 ## The Walking Dead
 
 - The Walking Dead: Season One (2012)
@@ -336,6 +373,14 @@
 - The Walking Dead: Michonne (2016)
 - The Walking Dead: A New Frontier (2016)
 - The Walking Dead: The Final Season (2018)
+
+## Uncharted
+
+- Uncharted: Drake's Fortune (2007)
+- Uncharted 2: Among Thieves (2009)
+- Uncharted 3: Drake's Deception (2011)
+- Uncharted 4: A Thief's End (2016)
+- Uncharted: The Lost Legacy (2017)
 
 ## Wolfenstein
 
@@ -346,4 +391,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-11-23
+maq777 - 2024-12-16
