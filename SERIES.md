@@ -48,6 +48,16 @@
 - Baldur's Gate II: Enhanced Edition (2013)
 - Baldur's Gate 3 (2023)
 
+## Battlefield
+
+- Battlefield 2: Modern Combat (2005)
+- Battlefield: Bad Company (2008)
+- Battlefield 1943 (2009)
+- Battlefield: Bad Company 2 (2010)
+- Battlefield 3 (2011)
+- Battlefield 4 (2013)
+- Battlefield 1 (2016)
+
 ## Bayonetta
 
 - Bayonetta (2009)
@@ -102,6 +112,15 @@
 - Call of Duty: Black Ops III (2015)
 - Call of Duty: Black Ops Cold War (2020)
 - Call of Duty: Black Ops 6 (2024)
+
+## Civilization
+
+- Sid Meier's Civilization (1991)
+- Sid Meier's Civilization II (1996)
+- Sid Meier's Civilization III (2001)
+- Sid Meier's Civilization IV (2005)
+- Sid Meier's Civilization V (2010)
+- Sid Meier's Civilization VI (2016)
 
 ## Devil May Cry
 
@@ -239,6 +258,20 @@
 - Quake 4 (2005)
 - Quake Champions (2017)
 
+## Resident Evil
+
+- Resident Evil (1996)
+- Resident Evil - Code: Veronica X (2000)
+- Resident Evil Zero (2002)
+- Resident Evil 4 (2005)
+- Resident Evil 5 (2009)
+- Resident Evil 6 (2012)
+- Resident Evil 7: Biohazard (2017)
+- Resident Evil 2 (2019)
+- Resident Evil 3 (2020)
+- Resident Evil Village (2021)
+- Resident Evil 4 (2023)
+
 ## S.T.A.L.K.E.R.
 
 - S.T.A.L.K.E.R.: Shadow of Chernobyl (2007)
@@ -256,6 +289,19 @@
 - Samurai Shodown V Special (2004)
 - Samurai Shodown (2019)
 - Samurai Shodown V Perfect (2020)
+
+## Sonic the Hedgehog
+
+- Sonic the Hedgehog (1991)
+- Sonic the Hedgehog 2 (1992)
+- Sonic CD (1993)
+- Sonic the Hedgehog 3 (1994)
+- Sonic & Knuckles (1994)
+- Sonic the Hedgehog 4: Episode I (2010)
+- Sonic Generations (2011)
+- Sonic the Hedgehog 4: Episode II (2012)
+- Sonic Mania (2017)
+- Sonic Forces (2017)
 
 ## Space Quest
 
@@ -391,4 +437,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-12-16
+maq777 - 2024-12-31
