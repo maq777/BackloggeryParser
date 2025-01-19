@@ -56,6 +56,7 @@
 - Battlefield: Bad Company 2 (2010)
 - Battlefield 3 (2011)
 - Battlefield 4 (2013)
+- Battlefield Hardline (2015)
 - Battlefield 1 (2016)
 
 ## Bayonetta
@@ -121,6 +122,14 @@
 - Sid Meier's Civilization IV (2005)
 - Sid Meier's Civilization V (2010)
 - Sid Meier's Civilization VI (2016)
+
+## Contra
+
+- Contra (1987)
+- Contra III: The Alien Wars (1992)
+- Contra: Hard Corps (1994)
+- Hard Corps: Uprising (2011)
+- Contra: Operation Galuga (2024)
 
 ## Devil May Cry
 
@@ -437,4 +446,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2024-12-31
+maq777 - 2025-01-19
