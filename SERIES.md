@@ -122,6 +122,7 @@
 - Sid Meier's Civilization IV (2005)
 - Sid Meier's Civilization V (2010)
 - Sid Meier's Civilization VI (2016)
+- Sid Meier's Civilization VII (2025)
 
 ## Contra
 
@@ -184,6 +185,12 @@
 - Gears of War 4 (2016)
 - Gears 5 (2019)
 - Gears Tactics (2020)
+
+## Grand Theft Auto
+
+- Grand Theft Auto III (2001)
+- Grand Theft Auto IV (2008)
+- Grand Theft Auto V (2013)
 
 ## Halo
 
@@ -446,4 +453,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-01-19
+maq777 - 2025-02-09

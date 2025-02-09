@@ -26,6 +26,7 @@ series = {
     "3025-182":  {"header": "## Fable", "games": []},
     "3025-183":  {"header": "## Fallout", "games": []},
     "3025-565":  {"header": "## Gears of War", "games": []},
+    "3025-6":    {"header": "## Grand Theft Auto", "games": []},
     "3025-2":    {"header": "## Halo", "games": []},
     "3025-450":  {"header": "## Leisure Suit Larry", "games": []},
     "3025-560":  {"header": "## Mass Effect", "games": []},
