@@ -68,6 +68,7 @@
 - Assassin's Creed Odyssey [Steam]
 - Assassin's Creed Origins [PC]
 - Assassin's Creed Rogue Remastered [Xbox Series X]
+- Assassin's Creed Shadows [Xbox Series X]
 - Assassin's Creed Syndicate [PC]
 - Assassin's Creed Unity [PC]
 - Assassin's Creed Unity: Dead Kings [PC]
@@ -664,6 +665,7 @@
 - The Legend of Kyrandia - Book Three: Malcolm's Revenge [PC]
 - The Legend of Kyrandia - Book Two: The Hand of Fate [PC]
 - The Legend of Tianding [PC]
+- The Legend of Zelda: Echoes of Wisdom [Nintendo Switch]
 - Legendary Wings (Capcom Arcade Stadium) [Xbox Series X]
 - Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work [PC]
 - Leisure Suit Larry 6: Shape Up or Slip Out! [PC]
@@ -729,6 +731,7 @@
 - Mega Man 11 [Steam]
 - Mega Man 2 [Nintendo Entertainment System]
 - Mega Man 2: The Power Fighters (Capcom Arcade 2nd Stadium) [Xbox Series X]
+- Mega Man 3 (Mega Man Legacy Collection) [Steam]
 - Mega Man 9 (Mega Man Legacy Collection 2) [Steam]
 - Mega Man X (Mega Man X Legacy Collection) [Steam]
 - Mega Man X2 (Mega Man X Legacy Collection) [Steam]
@@ -797,6 +800,7 @@
 - Night Warriors: Darkstalkers' Revenge (Darkstalkers Resurrection) [Xbox 360]
 - Ninja Gaiden 2 Black [PC]
 - Ninja Gaiden Black [Xbox]
+- Ninja Hayate HD-Remaster [Steam]
 - The Ninja Saviors: Return of the Warriors [Steam]
 - Norco [PC]
 - North & South - The Game [iOS]
@@ -1219,6 +1223,7 @@
 - Tiger-Heli (Toaplan Arcade Shoot'em Up Ultimate Collection) [Steam]
 - Time Crisis [PlayStation]
 - Time Crisis II [PlayStation 2]
+- Time Gal HD-Remaster [Steam]
 - TimeShift [Steam]
 - Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure [Xbox Series X]
 - Tiny Tina's Wonderlands [Xbox Series X]
@@ -1290,6 +1295,7 @@
 - Valiant Hearts: The Great War [PlayStation 4]
 - Vampire Savior: The Lord of Vampire (Capcom Arcade 2nd Stadium) [Xbox Series X]
 - Vampire Survivors [PC]
+- Vampire Survivors: Emerald Diorama [PC]
 - Vampire Survivors: Emergency Meeting [PC]
 - Vampire Survivors: Legacy of the Moonspell [PC]
 - Vampire Survivors: Ode to Castlevania [PC]
@@ -1377,4 +1383,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2025-04-04
+maq777 - 2025-04-20

@@ -39,6 +39,7 @@
 - Assassin's Creed Odyssey (2018)
 - Assassin's Creed Valhalla (2020)
 - Assassin's Creed Mirage (2023)
+- Assassin's Creed Shadows (2025)
 
 ## Baldur's Gate
 
@@ -229,6 +230,7 @@
 
 - Mega Man (1987)
 - Mega Man 2 (1988)
+- Mega Man 3 (1990)
 - Mega Man X (1993)
 - Mega Man X2 (1994)
 - Mega Man X3 (1995)
@@ -243,6 +245,7 @@
 
 - Mega Man (1987)
 - Mega Man 2 (1988)
+- Mega Man 3 (1990)
 - Mega Man: The Power Battle (1995)
 - Mega Man 2: The Power Fighters (1996)
 - Mega Man 9 (2008)
@@ -453,4 +456,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-04-04
+maq777 - 2025-04-20
