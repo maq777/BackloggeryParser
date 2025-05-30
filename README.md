@@ -380,6 +380,7 @@
 - Doom Eternal: The Ancient Gods - Part One [Steam]
 - Doom Eternal: The Ancient Gods - Part Two [Steam]
 - Doom II: Hell on Earth [Steam]
+- Doom: The Dark Ages [PC]
 - Dordogne [PC]
 - Double Dragon Gaiden: Rise Of The Dragons [Xbox Series X]
 - Double Dragon II: The Revenge [Nintendo Entertainment System]
@@ -454,6 +455,7 @@
 - Final Fight (Final Fight: Double Impact) [Xbox 360]
 - Fire Shark (Toaplan Arcade Shoot'em Up Ultimate Collection) [Steam]
 - Firewatch [Steam]
+- The First Berserker: Khazan [Xbox Series X]
 - Fixeight (Toaplan Arcade Shoot'em Up Ultimate Collection) [Steam]
 - Flicky (Sega Mega Drive Ultimate Collection) [Xbox 360]
 - Flintlock: The Siege of Dawn [PC]
@@ -768,6 +770,7 @@
 - Monkey Island 2: LeChuck's Revenge [Amiga]
 - Monkey Island 2: LeChuck's Revenge: Special Edition [Xbox 360]
 - Monster Train [PC]
+- Monster Train 2 [PC]
 - Monster Train: The Last Divinity [PC]
 - Monument Valley [iOS]
 - Monument Valley 2 [iOS]
@@ -809,6 +812,7 @@
 - Oddworld: New 'n' Tasty [PlayStation 4]
 - OlliOlli2: Welcome to Olliwood [PlayStation 4]
 - Omega Five [Xbox 360]
+- Onimusha: Warlords (2018) [Xbox One]
 - Operation Flashpoint: Dragon Rising [Xbox 360]
 - Operation Flashpoint: Red River [Xbox 360]
 - The Operative: No One Lives Forever [PC]
@@ -843,6 +847,7 @@
 - Pentiment [PC]
 - Perfect Dark Zero [Xbox 360]
 - PewDiePie: Legend of the Brofist [iOS]
+- Phantasmagoria [Steam]
 - Phantom Breaker: Battle Grounds [Xbox 360]
 - Phoenix Point [Epic Games Launcher]
 - Phoenix Wright: Ace Attorney (Phoenix Wright: Ace Attorney Trilogy) [Nintendo Switch]
@@ -1083,6 +1088,7 @@
 - SonSon (Capcom Arcade 2nd Stadium) [Xbox Series X]
 - Soulcalibur IV [Xbox 360]
 - Soulcalibur VI [Xbox One]
+- South of Midnight [PC]
 - South Park: The Fractured But Whole [Steam]
 - South Park: The Stick of Truth [Xbox 360]
 - Space Ace (Dragon's Lair Trilogy) [Nintendo Switch]
@@ -1383,4 +1389,4 @@
 - Zone of the Enders (Zone of the Enders HD Collection) [Xbox 360]
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360]
 
-maq777 - 2025-04-20
+maq777 - 2025-05-30

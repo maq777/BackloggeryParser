@@ -158,6 +158,14 @@
 - Doom 3 (2004)
 - Doom (2016)
 - Doom Eternal (2020)
+- Doom: The Dark Ages (2025)
+
+## The Elder Scrolls
+
+- The Elder Scrolls III: Morrowind (2002)
+- The Elder Scrolls IV: Oblivion (2006)
+- The Elder Scrolls V: Skyrim (2011)
+- The Elder Scrolls IV: Oblivion Remastered (2025)
 
 ## Fable
 
@@ -456,4 +464,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-04-20
+maq777 - 2025-05-30
