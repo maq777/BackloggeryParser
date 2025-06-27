@@ -184,6 +184,13 @@
 - Fallout 4 (2015)
 - Fallout: London (2024)
 
+## Far Cry
+
+- Far Cry 3 (2012)
+- Far Cry 3: Blood Dragon (2013)
+- Far Cry New Dawn (2019)
+- Far Cry 6 (2021)
+
 ## Gears of War
 
 - Gears of War (2006)
@@ -329,6 +336,7 @@
 - Sonic the Hedgehog 4: Episode II (2012)
 - Sonic Mania (2017)
 - Sonic Forces (2017)
+- Sonic X Shadow Generations (2024)
 
 ## Space Quest
 
@@ -464,4 +472,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-05-30
+maq777 - 2025-06-27
