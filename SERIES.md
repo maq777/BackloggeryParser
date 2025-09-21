@@ -201,12 +201,30 @@
 - Gears of War 4 (2016)
 - Gears 5 (2019)
 - Gears Tactics (2020)
+- Gears of War: Reloaded (2025)
 
 ## Grand Theft Auto
 
 - Grand Theft Auto III (2001)
 - Grand Theft Auto IV (2008)
 - Grand Theft Auto V (2013)
+
+## Gunvolt
+
+- Azure Striker Gunvolt (2015)
+- Azure Striker Gunvolt 2 (2016)
+- Gunvolt Chronicles: Luminous Avenger iX (2019)
+- Azure Striker Gunvolt 3 (2022)
+
+### Azure Striker Gunvolt
+
+- Azure Striker Gunvolt (2015)
+- Azure Striker Gunvolt 2 (2016)
+- Azure Striker Gunvolt 3 (2022)
+
+### Gunvolt Chronicles
+
+- Gunvolt Chronicles: Luminous Avenger iX (2019)
 
 ## Halo
 
@@ -472,4 +490,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-08-23
+maq777 - 2025-09-21
