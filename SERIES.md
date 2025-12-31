@@ -69,11 +69,12 @@
 
 ## Broken Sword
 
-- Broken Sword: Shadow of the Templars - The Director's Cut (1996)
-- Broken Sword II: The Smoking Mirror - Remastered (1997)
 - Broken Sword: The Sleeping Dragon (2003)
 - Broken Sword: The Angel of Death (2006)
+- Broken Sword: Shadow of the Templars - The Director's Cut (2009)
+- Broken Sword II: The Smoking Mirror - Remastered (2010)
 - Broken Sword 5: The Serpent's Curse (2013)
+- Broken Sword - Shadow of the Templars: Reforged (2024)
 
 ## Call of Duty
 
@@ -97,6 +98,7 @@
 - Call of Duty: Modern Warfare II (2022)
 - Call of Duty: Modern Warfare III (2023)
 - Call of Duty: Black Ops 6 (2024)
+- Call of Duty: Black Ops 7 (2025)
 
 ### Modern Warfare
 
@@ -114,6 +116,7 @@
 - Call of Duty: Black Ops III (2015)
 - Call of Duty: Black Ops Cold War (2020)
 - Call of Duty: Black Ops 6 (2024)
+- Call of Duty: Black Ops 7 (2025)
 
 ## Civilization
 
@@ -206,6 +209,7 @@
 ## Grand Theft Auto
 
 - Grand Theft Auto III (2001)
+- Grand Theft Auto: Vice City (2002)
 - Grand Theft Auto IV (2008)
 - Grand Theft Auto V (2013)
 
@@ -215,6 +219,7 @@
 - Azure Striker Gunvolt 2 (2016)
 - Gunvolt Chronicles: Luminous Avenger iX (2019)
 - Azure Striker Gunvolt 3 (2022)
+- Gunvolt Chronicles: Luminous Avenger iX 2 (2022)
 
 ### Azure Striker Gunvolt
 
@@ -225,6 +230,7 @@
 ### Gunvolt Chronicles
 
 - Gunvolt Chronicles: Luminous Avenger iX (2019)
+- Gunvolt Chronicles: Luminous Avenger iX 2 (2022)
 
 ## Halo
 
@@ -490,4 +496,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-09-21
+maq777 - 2025-12-31
