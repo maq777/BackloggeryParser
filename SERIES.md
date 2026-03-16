@@ -329,6 +329,7 @@
 - Resident Evil 3 (2020)
 - Resident Evil Village (2021)
 - Resident Evil 4 (2023)
+- Resident Evil Requiem (2026)
 
 ## S.T.A.L.K.E.R.
 
@@ -496,4 +497,4 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2025-12-31
+maq777 - 2026-03-16
