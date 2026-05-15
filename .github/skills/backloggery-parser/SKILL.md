@@ -1,0 +1,312 @@
+---
+name: backloggery-parser
+description: "Workflow for managing the BackloggeryParser project: identifying game franchises, adding series to series.py with name-based keys, enriching games with Wikipedia release dates, alphabetizing entries, and verifying SERIES.md output. Use when: working with game series data, adding new franchises, validating backlog organization, or querying the game library for missing series."
+applyTo: ""
+---
+
+# BackloggeryParser Series Management Workflow
+
+## Project Overview
+
+**Purpose**: Convert Backloggery-exported game library CSV data into organized markdown documentation of game series completion status.
+
+**Key Files**:
+- `library_YYYY-MM-DD.csv` — Backloggery export (dated on each export) with ~1500+ completed games; Notes field contains franchise tags as `(franchise,KEY,YEAR)`
+- `README.md` — Complete backlog listing all beaten games by title with platform
+- `SERIES.md` — Output markdown file grouped by franchise with games listed chronologically
+- `series.py` — Python script parsing CSV, building series dictionary, writing SERIES.md
+
+## Core Workflow: Adding a New Game Series
+
+### Step 1: Identify Candidate Franchises
+Search README.md for games you've completed across potential series. Look for:
+- Franchises with exactly 3+ games beaten
+- Multiple main entries vs. spin-offs/remakes (spin-offs count toward 4-game threshold)
+- No alphabetical duplicates with existing SERIES.md entries
+
+**Search pattern**: Use grep with franchise name regex to count completions
+```
+Get-Content README.md | Select-String -Pattern "^- (FranchiseName|Variant1|Variant2)" | Measure-Object
+```
+
+### Step 2: Verify Release Dates from Wikipedia
+For each game in the candidate series:
+1. Search Wikipedia for the game's original release date (NOT "Last Updated" from CSV)
+2. Extract year only (YYYY format)
+3. Document chronologically by release year, not completion date
+
+**Key dates to verify**: Original NA/worldwide release, not regional or remaster dates
+
+### Step 3: Add to series.py Dictionary
+
+**Location**: Top of `series.py` file, within the `series = {...}` dictionary
+
+**Key Selection Rule**:
+- **If a GiantBomb GUID already exists** for the franchise (e.g., `"3025-397"` for Resident Evil): use the existing GUID key
+- **If NO GUID exists** (new franchise): create a name-based key using the franchise name (e.g., `"Borderlands"`, `"Metal Gear"`)
+- **For sub-series**: always use a name-based key using the **full descriptive name** format: `"MainFranchise: SubSeriesName"` (e.g., `"Resident Evil: Revelations"`, `"Halo: Halo Wars"`, `"Halo: Spartan Assault"`)
+
+**Format**:
+```python
+"FranchiseName": {
+    "header": "## FranchiseName",
+    "games": [
+        ("Game Title 1", "YYYY"),
+        ("Game Title 2", "YYYY"),
+        ("Game Title 3", "YYYY"),
+        ("Game Title 4", "YYYY"),
+    ]
+}
+```
+
+**Key conventions**:
+- Dictionary **key** = GUID if available (e.g., `"3025-2"`, `"3025-397"`), else franchise name string (e.g., `"Borderlands"`, `"Metal Gear"`)
+- Sub-series keys = full name format `"Parent: SubSeries"` (e.g., `"Halo: Halo Wars"`, `"Resident Evil: Revelations"`)
+- `"header"` field = markdown header string (e.g., `"## Borderlands"`, `"### Halo Wars"`)
+- `"games"` field = list of tuples: `(game_title, year_string)`
+- Year format = 4-digit string `"YYYY"` (e.g., `"2009"`)
+- **Alphabetize** by franchise name when inserting new entries
+- Entries may include sub-franchises as nested entries (e.g., Call of Duty has Modern Warfare, Black Ops sub-entries)
+
+**Example from existing data**:
+```python
+"Borderlands": {
+    "header": "## Borderlands",
+    "games": [
+        ("Borderlands", "2009"),
+        ("Borderlands 2", "2012"),
+        ("Tales from the Borderlands", "2014"),
+        ("Borderlands 3", "2019"),
+        ("Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure", "2021"),
+        ("Tiny Tina's Wonderlands", "2022"),
+    ]
+}
+```
+
+### Step 4: Tag Games in CSV
+Games in the library CSV Notes field should already contain or be formatted as:
+```
+(franchise,FranchiseName,YYYY) [Achievement/Details]
+```
+
+**For games in sub-series**: Tag them with **BOTH** the main franchise and the sub-series key so they appear in both outputs:
+```
+(franchise,MainFranchise,YYYY)(franchise,SubSeriesName,YYYY) [Achievement/Details]
+```
+
+**Examples**:
+- Halo Wars game: `(franchise,3025-2,2009)(franchise,Halo: Halo Wars,2009)` [uses GUID for main Halo, full name for sub-series]
+- Resident Evil Revelations game: `(franchise,3025-397,2012)(franchise,Resident Evil: Revelations,2012)` [uses GUID for main RE, full name for sub-series]
+- Tiny Tina's Wonderlands: `(franchise,Borderlands,2022)(franchise,Borderlands: Tiny Tina,2022)` [uses name-based key; no GUID exists]
+
+**Parser regex** (in series.py):
+```python
+r"\(franchise,(.+?),(\d+)\)"
+```
+Extracts: `$1` = franchise key, `$2` = year (matches all occurrences in Notes field)
+
+### Step 5: Run Script and Verify Output
+Execute series.py to regenerate SERIES.md (using the current library CSV export file):
+```powershell
+python series.py library_YYYY-MM-DD.csv
+```
+
+**Verification checklist**:
+✓ All franchises appear with correct headers  
+✓ Games listed chronologically by year within each franchise  
+✓ No syntax errors in output markdown  
+✓ Release dates match Wikipedia sources, not CSV dates  
+✓ Game titles match README.md exactly  
+✓ Series appear in alphabetical order in SERIES.md
+
+## Game Series Thresholds
+
+**Minimum for inclusion**: 4 main-line games
+- Spin-offs, remakes, remasters **count toward** the threshold
+- Expansions **count toward** the threshold
+- DLC **does not count** toward the threshold
+- Mobile entries **count** if core to the franchise
+
+**No duplicate tagging**: When a Definitive Edition, remaster, or re-release exists alongside the original, **only tag the original** with the franchise key. Do not tag both. Example: tag `Halo Wars` but not `Halo Wars Definitive Edition`.
+
+## Data Enrichment: Release Dates
+
+**Source Priority**:
+1. Wikipedia original release date (preferred)
+2. Official publisher date
+3. Steam/platform store date
+
+**Format**:
+- Year only: `"YYYY"`
+- If exact release date unknown, use year of announcement or release window estimate
+- Consistency within series more important than precision
+
+## Common Patterns
+
+### Sub-Series Strategy
+When a franchise branches into distinct sub-series or gameplay styles, create specialized sub-entries (using `###` headers) for those branches only. **Do not create a "Main Series" catch-all or "Spin-offs" category** — keep primary/core games directly under the main franchise header.
+
+**Implementation**: Games in sub-series are tagged with **BOTH** the main franchise key AND the sub-series key in the CSV Notes field. This ensures they appear in both the main series listing and the sub-series listing in SERIES.md.
+
+**Guidelines**:
+- Main franchise header (##) contains core/main-line games
+- Create sub-series entries (###) only for specialized branches (different gameplay, setting, or officially named sub-franchise)
+- Sub-series entries should have thematic cohesion (e.g., same gameplay style or official naming)
+- Each sub-series must have 2+ games you've played (if only 1 game in a branch, keep it in main header)
+- **Dual-tag games** in CSV so they appear in both main and sub-series sections
+
+**Examples**:
+
+**Resident Evil** (Core series + Revelations branch):
+```python
+"3025-397": {
+    "header": "## Resident Evil",
+    "games": [
+        ("Resident Evil", "1996"),
+        ("Resident Evil 2 (2019)", "2019"),
+        ("Resident Evil 3 (2020)", "2020"),
+        ("Resident Evil 4", "2005"),
+        ("Resident Evil 5", "2009"),
+        ("Resident Evil 6", "2012"),
+        ("Resident Evil 7: Biohazard", "2017"),
+        ("Resident Evil Village", "2021"),
+        ("Resident Evil: Revelations", "2012"),  # Also tagged with Resident Evil: Revelations
+        ("Resident Evil: Revelations 2", "2015"),  # Also tagged with Resident Evil: Revelations
+    ]
+},
+{
+    "header": "### Revelations",
+    "games": [
+        ("Resident Evil: Revelations", "2012"),
+        ("Resident Evil: Revelations 2", "2015"),
+    ]
+}
+```
+
+**CSV Tagging Example** (for Revelations games):
+```
+(franchise,3025-397,2012)(franchise,Resident Evil: Revelations,2012) Infiltrator - unlocked on 2/14/2013
+```
+
+**Halo** (Core + Halo Wars RTS branch + Spartan mobile branch):
+```python
+"3025-2": {
+    "header": "## Halo",
+    "games": [
+        ("Halo: Combat Evolved", "2001"),
+        ("Halo 2", "2004"),
+        ("Halo 3", "2007"),
+        ("Halo 3: ODST", "2009"),
+        ("Halo: Reach", "2010"),
+        ("Halo 4", "2012"),
+        ("Halo 5: Guardians", "2015"),
+        ("Halo Infinite", "2021"),
+    ]
+},
+{
+    "header": "### Halo Wars",
+    "games": [
+        ("Halo Wars", "2009"),
+        ("Halo Wars 2", "2017"),
+    ]
+},
+{
+    "header": "### Spartan Assault",
+    "games": [
+        ("Halo: Spartan Assault", "2013"),
+        ("Halo: Spartan Strike", "2015"),
+    ]
+}
+```
+
+**Borderlands** (Core shooter series + Tiny Tina's action branch):
+```python
+"Borderlands": {
+    "header": "## Borderlands",
+    "games": [
+        ("Borderlands", "2009"),
+        ("Borderlands 2", "2012"),
+        ("Borderlands 3", "2019"),
+    ]
+},
+{
+    "header": "### Tiny Tina",
+    "games": [
+        ("Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure", "2021"),
+        ("Tiny Tina's Wonderlands", "2022"),
+    ]
+}
+```
+
+### Naming Conventions
+- Use exact franchise name from Wikipedia/official sources
+- Separate series when officially distinct: `"Vampire: The Masquerade"` vs. main Vampire series
+- Include remaster/remake suffixes: `"Silent Hill 2 (2024)"` for distinctions
+
+## Validation Checklist
+
+Before running `series.py`:
+- [ ] All new games added to series dictionary
+- [ ] Dictionary sorted alphabetically by key
+- [ ] All years are 4-digit strings, not integers
+- [ ] Franchise keys match CSV `(franchise,KEY,YYYY)` tags
+- [ ] No duplicate game titles within a franchise
+- [ ] Games within each franchise sorted chronologically by year
+- [ ] No syntax errors in Python dict (test with `python -m py_compile series.py`)
+
+After running `series.py`:
+- [ ] SERIES.md generated without errors
+- [ ] All franchises present in markdown output
+- [ ] Games listed under correct franchises
+- [ ] Years display correctly in parentheses format
+- [ ] Markdown formatting valid (no mismatched headers)
+
+## Troubleshooting
+
+**SERIES.md not updating?**
+- Verify CSV file path matches script argument: `python series.py library_2026-05-15.csv`
+- Check for syntax errors in series.py dictionary (colons, commas, quotes)
+- Ensure franchise keys in CSV match dictionary keys exactly
+
+**Release dates appear as "None" or wrong year?**
+- Verify Wikipedia page exists for the game
+- Check year extraction regex (should capture 4-digit YYYY only)
+- Confirm games in CSV Notes field have `(franchise,KEY,YYYY)` format
+
+**Games missing from SERIES.md?**
+- Check README.md for exact game title match
+- Verify franchise key in CSV matches series.py dictionary key
+- Ensure game entry in CSV has valid `(franchise,KEY,YYYY)` tag
+
+## Franchises Recommended for Sub-Series Splitting
+
+Based on your play history, these franchises have multiple branches where you've played games in **at least 2 distinct sub-series**:
+
+### 1. **Resident Evil** (Highest Priority)
+- **Main series** (core games): RE, RE2-3 Remakes, RE4-6, RE7-Village (8+ games)
+- **Revelations** (handheld-origin branch): Revelations, Revelations 2 (2 games)
+  - **CSV Tagging**: Revelations games tagged as `(franchise,Resident Evil,YYYY)(franchise,Revelations,YYYY)`
+- **Optional**: Separate standalone RE: Operation Raccoon City if desired (1 game - currently in main)
+- **Recommendation**: Split into main + Revelations sub-series
+
+### 2. **Halo** (Medium Priority)
+- **Main series** (FPS): Combat Evolved, 2, 3, ODST, Reach, 4, 5, Infinite (8 games)
+- **Halo Wars** (RTS strategy): Wars, Wars 2 (2 games)
+  - **CSV Tagging**: Wars games tagged as `(franchise,Halo,YYYY)(franchise,Halo Wars,YYYY)`
+- **Halo Spartan** (mobile/tactical): Spartan Assault, Spartan Strike (2 games)
+  - **CSV Tagging**: Spartan games tagged as `(franchise,Halo,YYYY)(franchise,Halo Spartan,YYYY)`
+- **Recommendation**: Split into main + Halo Wars + Halo Spartan sub-series
+
+### 3. **Borderlands** (Lower Priority)
+- **Main series** (loot shooter): Borderlands, 2, 3 (3 games)
+- **Tiny Tina** (action/adventure): Tiny Tina's Assault on Dragon Keep, Tiny Tina's Wonderlands (2 games)
+  - **CSV Tagging**: Tiny Tina games tagged as `(franchise,Borderlands,YYYY)(franchise,Tiny Tina,YYYY)`
+- **Optional**: Tales from Borderlands narrative adventure (1 game - currently in main)
+- **Recommendation**: Split into main + Tiny Tina sub-series (consider Tales separately if desired)
+
+**Note**: Tales from the Borderlands appears as a separate entry in some systems; keep in main Borderlands unless you want a dedicated narrative adventure sub-series.
+
+### Implementation Steps
+1. Add sub-series dictionary entries to series.py with `### Header` format
+2. Tag games in CSV with dual-franchise format: `(franchise,Main,YYYY)(franchise,Sub,YYYY)`
+3. Run series.py — games will automatically appear in both main and sub-series sections

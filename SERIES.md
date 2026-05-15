@@ -67,6 +67,15 @@
 - Bayonetta 3 (2022)
 - Bayonetta Origins: Cereza and the Lost Demon (2023)
 
+## Borderlands
+
+- Borderlands (2009)
+- Borderlands 2 (2012)
+- Tales from the Borderlands (2014)
+- Borderlands 3 (2019)
+- Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure (2021)
+- Tiny Tina's Wonderlands (2022)
+
 ## Broken Sword
 
 - Broken Sword: The Sleeping Dragon (2003)
@@ -117,6 +126,16 @@
 - Call of Duty: Black Ops Cold War (2020)
 - Call of Duty: Black Ops 6 (2024)
 - Call of Duty: Black Ops 7 (2025)
+
+## Castlevania
+
+- Castlevania (1986)
+- Kid Dracula (1990)
+- Super Castlevania IV (1991)
+- Castlevania: Bloodlines (1994)
+- Castlevania: Symphony of the Night (1997)
+- Castlevania: Lords of Shadow (2010)
+- Castlevania: Lords of Shadow 2 (2014)
 
 ## Civilization
 
@@ -210,6 +229,7 @@
 
 - Grand Theft Auto III (2001)
 - Grand Theft Auto: Vice City (2002)
+- Grand Theft Auto: San Andreas (2004)
 - Grand Theft Auto IV (2008)
 - Grand Theft Auto V (2013)
 
@@ -246,6 +266,24 @@
 - Halo 5: Guardians (2015)
 - Halo Wars 2 (2017)
 - Halo Infinite (2021)
+
+### Halo Wars
+
+- Halo Wars (2009)
+- Halo Wars 2 (2017)
+
+### Spartan Assault
+
+- Halo: Spartan Assault (2013)
+- Halo: Spartan Strike (2015)
+
+## James Bond
+
+- GoldenEye 007 (1997)
+- 007: Quantum of Solace (2008)
+- James Bond 007: Blood Stone (2010)
+- GoldenEye 007: Reloaded (2011)
+- 007 Legends (2012)
 
 ## Leisure Suit Larry
 
@@ -298,6 +336,14 @@
 - Mega Man X3 (1995)
 - Mega Man X4 (1997)
 
+## Metal Gear
+
+- Metal Gear Solid 2: Sons of Liberty (2001)
+- Metal Gear Solid 3: Snake Eater (2004)
+- Metal Gear Solid: Peace Walker - HD Edition (2011)
+- Metal Gear Rising: Revengeance (2013)
+- Metal Gear Solid V: Ground Zeroes (2014)
+
 ## Monkey Island
 
 - The Secret of Monkey Island (1990)
@@ -308,6 +354,13 @@
 - Monkey Island 2: LeChuck's Revenge: Special Edition (2010)
 - Return to Monkey Island (2022)
 
+## Ninja Gaiden
+
+- Ninja Gaiden Black (2005)
+- Ninja Gaiden 2 Black (2025)
+- Ninja Gaiden: Ragebound (2025)
+- Ninja Gaiden 4 (2025)
+
 ## Quake
 
 - Quake (1996)
@@ -315,6 +368,13 @@
 - Quake III Arena (1999)
 - Quake 4 (2005)
 - Quake Champions (2017)
+
+## Rayman
+
+- Rayman Raving Rabbids (2006)
+- Rayman Origins (2011)
+- Rayman 3 HD (2012)
+- Rayman Legends (2013)
 
 ## Resident Evil
 
@@ -324,12 +384,19 @@
 - Resident Evil 4 (2005)
 - Resident Evil 5 (2009)
 - Resident Evil 6 (2012)
+- Resident Evil: Revelations (2012)
+- Resident Evil: Revelations 2 (2015)
 - Resident Evil 7: Biohazard (2017)
 - Resident Evil 2 (2019)
 - Resident Evil 3 (2020)
 - Resident Evil Village (2021)
 - Resident Evil 4 (2023)
 - Resident Evil Requiem (2026)
+
+### Revelations
+
+- Resident Evil: Revelations (2012)
+- Resident Evil: Revelations 2 (2015)
 
 ## S.T.A.L.K.E.R.
 
@@ -348,6 +415,13 @@
 - Samurai Shodown V Special (2004)
 - Samurai Shodown (2019)
 - Samurai Shodown V Perfect (2020)
+
+## Silent Hill
+
+- Silent Hill 2 (2001)
+- Silent Hill 3 (2003)
+- Silent Hill: Homecoming (2008)
+- Silent Hill 2 (2024)
 
 ## Sonic the Hedgehog
 
@@ -371,6 +445,14 @@
 - Space Quest IV: Roger Wilco and the Time Rippers (1991)
 - Space Quest V: The Next Mutation (1993)
 - Space Quest 6: The Spinal Frontier (1995)
+
+## Star Wars: Jedi Knight
+
+- Star Wars: Dark Forces (1995)
+- Star Wars Jedi Knight: Dark Forces II (1997)
+- Star Wars Jedi Knight: Mysteries of the Sith (1998)
+- Star Wars Jedi Knight II: Jedi Outcast (2002)
+- Star Wars Jedi Knight: Jedi Academy (2003)
 
 ## Street Fighter
 
@@ -419,6 +501,14 @@
 - Streets of Rage 2 (1992)
 - Streets of Rage 3 (1994)
 - Streets of Rage 4 (2020)
+
+## TMNT
+
+- TMNT (2007)
+- Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled (2009)
+- Teenage Mutant Ninja Turtles: Mutants in Manhattan (2016)
+- Teenage Mutant Ninja Turtles: Shredder's Revenge (2022)
+- Teenage Mutant Ninja Turtles: Mutants Unleashed (2024)
 
 ## Tom Clancy
 
@@ -488,6 +578,22 @@
 - Uncharted 4: A Thief's End (2016)
 - Uncharted: The Lost Legacy (2017)
 
+## Vampire: The Masquerade
+
+- Vampire: The Masquerade - Bloodlines (2004)
+- Vampire: The Masquerade - Coteries of New York (2019)
+- Vampire: The Masquerade - Shadows of New York (2020)
+- Vampire: The Masquerade - Night Road (2020)
+- Vampire: The Masquerade - Heartless Lullaby (2022)
+- Vampire: The Masquerade - Reckoning of New York (2024)
+
+## Warhammer 40,000
+
+- Warhammer 40,000: Kill Team (2011)
+- Warhammer 40,000: Space Marine (2011)
+- Warhammer 40,000: Boltgun (2023)
+- Warhammer 40,000: Space Marine 2 (2024)
+
 ## Wolfenstein
 
 - Return to Castle Wolfenstein (2001)
@@ -497,4 +603,13 @@
 - Wolfenstein II: The New Colossus (2017)
 - Wolfenstein: Youngblood (2019)
 
-maq777 - 2026-03-16
+## XCOM
+
+- XCOM: Enemy Unknown (2012)
+- The Bureau: XCOM Declassified (2013)
+- XCOM: Enemy Within (2013)
+- XCOM 2 (2016)
+- War of the Chosen (2017)
+- XCOM: Chimera Squad (2020)
+
+maq777 - 2026-05-15
