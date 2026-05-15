@@ -318,17 +318,6 @@
 - Mega Man 10 (2010)
 - Mega Man 11 (2018)
 
-### Mega Man Classic
-
-- Mega Man (1987)
-- Mega Man 2 (1988)
-- Mega Man 3 (1990)
-- Mega Man: The Power Battle (1995)
-- Mega Man 2: The Power Fighters (1996)
-- Mega Man 9 (2008)
-- Mega Man 10 (2010)
-- Mega Man 11 (2018)
-
 ### Mega Man X
 
 - Mega Man X (1993)

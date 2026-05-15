@@ -41,7 +41,6 @@ series = {
     "3025-450": {"header": "## Leisure Suit Larry", "games": []},
     "3025-560": {"header": "## Mass Effect", "games": []},
     "3025-523": {"header": "## Mega Man", "games": []},
-    "3025-626": {"header": "### Mega Man Classic", "games": []},
     "3025-524": {"header": "### Mega Man X", "games": []},
     "Metal Gear": {"header": "## Metal Gear", "games": []},
     "3025-548": {"header": "## Monkey Island", "games": []},
