@@ -27,6 +27,16 @@ def get_parent(row, game_list):
     )
 
 
+def format_platform(row):
+    """Format platform with optional sub-platform details."""
+    platform = row.get("Platform", "")
+    sub_platform = row.get("Sub-Platform", "")
+
+    if sub_platform:
+        return f"{platform} ({sub_platform})"
+    return platform
+
+
 parser = argparse.ArgumentParser("convert")
 parser.add_argument(
     "file",
@@ -63,10 +73,11 @@ with io.open("README.md", mode="w", encoding="utf-8") as outfile:
         if not is_beaten(row):
             continue
         parent = get_parent(row, games)
+        platform = format_platform(row)
         if parent and is_collection(parent):
-            outfile.write(f"- {row['Title']} ({parent['Title']}) [{row['Platform']}]\n")
+            outfile.write(f"- {row['Title']} ({parent['Title']}) [{platform}]\n")
         else:
-            outfile.write(f"- {row['Title']} [{row['Platform']}]\n")
+            outfile.write(f"- {row['Title']} [{platform}]\n")
 
     outfile.write(f"\nmaq777 - {datetime.datetime.now().strftime('%Y-%m-%d')}")
     outfile.close()
