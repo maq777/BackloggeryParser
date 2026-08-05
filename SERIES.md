@@ -266,6 +266,7 @@
 - Halo 5: Guardians (2015)
 - Halo Wars 2 (2017)
 - Halo Infinite (2021)
+- Halo: Combat Evolved Anniversary (2026)
 
 ### Halo Wars
 
@@ -601,4 +602,4 @@
 - War of the Chosen (2017)
 - XCOM: Chimera Squad (2020)
 
-maq777 - 2026-07-17
+maq777 - 2026-08-05

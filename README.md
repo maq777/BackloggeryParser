@@ -336,6 +336,10 @@
 - Darksiders III [PC]
 - Darkstalkers 3 (Darkstalkers Resurrection) [Xbox 360 (Arcade)]
 - Darkstalkers: The Night Warriors (Capcom Arcade 2nd Stadium) [Xbox Series X (Arcade)]
+- Dave the Diver [Nintendo Switch]
+- Dave the Diver: Dredge Content Pack [Nintendo Switch]
+- Dave the Diver: Godzilla Content Pack [Nintendo Switch]
+- Dave the Diver: Ichiban's Holiday [Nintendo Switch]
 - Day of the Tentacle Remastered [Steam]
 - Daylight [PlayStation 4]
 - Daytona USA [PlayStation 3]
@@ -604,6 +608,7 @@
 - Halo Wars 2: Awakening the Nightmare [Xbox One]
 - Halo Wars 2: Operation: Spearbreaker [Xbox One]
 - Halo Wars Definitive Edition [Xbox One]
+- Halo: Campaign Evolved [Steam]
 - Halo: Combat Evolved [Xbox]
 - Halo: Combat Evolved Anniversary [Xbox 360]
 - Halo: Combat Evolved Anniversary (Halo: The Master Chief Collection) [Xbox One]
@@ -1413,6 +1418,7 @@
 - Turning Point: Fall of Liberty [Xbox 360]
 - Turok (2008) [Xbox 360]
 - Turok 2: Seeds of Evil [Steam]
+- Turok: Dinosaur Hunter [Steam]
 - Twelve Minutes [PC]
 - Twilight Struggle [iOS]
 - Twin Cobra (Toaplan Arcade Shoot'em Up Ultimate Collection) [Steam (Arcade)]
@@ -1465,7 +1471,7 @@
 - Varth: Operation Thunderstorm (Capcom Arcade Stadium) [Xbox Series X (Arcade)]
 - VCTR-SCTR (Atari 50: The Anniversary Celebration) [Steam]
 - Venba [PC]
-- Venetian Blinds [Miscellaneous (Atari 2600)]
+- Venetian Blinds [PC (Atari 2600)]
 - Vietcong [Xbox]
 - Viking Squad [Steam]
 - Vimana (Toaplan Arcade Shoot'em Up Ultimate Collection) [Steam (Arcade)]
@@ -1550,4 +1556,4 @@
 - Zone of the Enders: The 2nd Runner (Zone of the Enders HD Collection) [Xbox 360 (PlayStation 2)]
 - Zork I: The Great Underground Empire [PC]
 
-maq777 - 2026-07-17
+maq777 - 2026-08-05
