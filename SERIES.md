@@ -40,6 +40,7 @@
 - Assassin's Creed Valhalla (2020)
 - Assassin's Creed Mirage (2023)
 - Assassin's Creed Shadows (2025)
+- Assassin's Creed Black Flag Resynced (2026)
 
 ## Baldur's Gate
 
@@ -602,4 +603,4 @@
 - War of the Chosen (2017)
 - XCOM: Chimera Squad (2020)
 
-maq777 - 2026-08-05
+maq777 - 2026-10-04
